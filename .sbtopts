@@ -1,0 +1,4 @@
+-J-Xmx10G
+-J-Xms4G
+-J-XX:+UseG1GC
+-J-XX:+CMSClassUnloadingEnabled
